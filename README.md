@@ -7,3 +7,6 @@
 -> Insertion of the .sql file from export with mysqldump.
 
 -> Import of documents for the train exam.
+
+-> Import of UML Diagram Schema for Database
+
